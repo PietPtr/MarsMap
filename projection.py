@@ -2,30 +2,9 @@ from PIL import Image, ImageDraw
 from colour import Color
 import math
 
-Image.MAX_IMAGE_PIXELS = 1061683200
-
-hm = Image.open('hm.tif')
-
-HM_SCALER = 30
-SCALER = 1
-
-width, height = hm.size
-
-img = Image.new('I', (width // SCALER, height // SCALER), color=(-2147483648))
-
-rwidth, rheight = img.size
-
-MAX = 1385517713
-MIN = -513154762
-
-maxv = 0
-minv = 0
-
-MAGIC = 10
-
-def cylToLatLon(x, y):
-    long = x / (128 / HM_SCALER)
-    lat = y / (128 / HM_SCALER) - 90
+def cylToLatLon(x, y, scale):
+    long = x / (128 / scale)
+    lat = y / (128 / scale) - 90
 
     return (lat, long)
 
@@ -56,7 +35,7 @@ robinsonTable = [
 RADS = math.pi / 180
 
 # lat and long in degrees
-def robinson(lat, long):
+def robinson(lat, long, R):
     idx = int(abs(lat) // 5)
     (X1, Y1) = robinsonTable[idx]
     (X2, Y2) = robinsonTable[idx + 1]
@@ -65,7 +44,6 @@ def robinson(lat, long):
     X = X1 * (1 - diff) + X2 * (diff)
     Y = Y1 * (1 - diff) + Y2 * (diff)
 
-    R = rwidth / 6.1
 
     x = 0.8487 * R * X * (long * RADS)
     y = math.copysign(1.3523 * R * Y, lat)
@@ -73,15 +51,22 @@ def robinson(lat, long):
     return (x, y)
 
 
-if __name__ == '__main__':
-    for y in range(0, height, SCALER):
+def projectmap(hm, scale):
+    width, height = hm.size
+
+    img = Image.new('I', (width, height), color=(-2147483648))
+
+    rwidth, rheight = img.size
+    R = rwidth / 6.1
+
+    for y in range(0, height):
         if y % (height // 100) == 0:
-            print(y / height * 100)
-        for x in range(0, width, SCALER):
+            print("pm", y / height * 100)
+        for x in range(0, width):
             value = hm.getpixel((x, y))
-            (lat, long) = cylToLatLon(x - width / 2, y)
-            (mapx, mapy) = robinson(lat, long)
+            (lat, long) = cylToLatLon(x - width / 2, y, scale)
+            (mapx, mapy) = robinson(lat, long, R)
 
             img.putpixel((int(mapx + rwidth / 2), int(mapy + rheight / 2)), value)
 
-    img.save("robinson.tif")
+    return img
