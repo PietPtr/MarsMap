@@ -1,8 +1,10 @@
 from PIL import Image, ImageDraw
 from colour import Color
 import vectormath as vmath
+import settings as s
+import sys
 
-def lightmap(nm, cm, light):
+def lightmap(nm, cm, light, ambient):
     width, height = nm.size
     cwidth, cheight = cm.size
 
@@ -25,9 +27,18 @@ def lightmap(nm, cm, light):
                     (b/255 - 0.5) * 2)
                 angle = normal.angle(light, 'deg')
                 illumination = 1 - (angle / 180)
+                illumination = ambient + (1 - ambient) * illumination
                 cr = int(illumination * cr)
                 cg = int(illumination * cg)
                 cb = int(illumination * cb)
                 shaded.putpixel((x, y), (cr, cg, cb, ca))
 
     return shaded
+
+if __name__ == '__main__':
+    directory = sys.argv[1]
+    nm = Image.open(directory + "/nm.png")
+    cm = Image.open(directory + "/cm.png")
+
+    image = lightmap(nm, cm, s.light, s.ambientPercentage)
+    image.save(directory + "/map.png")

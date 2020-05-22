@@ -1,7 +1,8 @@
 from PIL import Image, ImageDraw
 from colour import Color
-
-Image.MAX_IMAGE_PIXELS = 1061683200
+import settings as s
+import sys
+import topng
 
 
 def setpixel(x, y, value):
@@ -24,3 +25,15 @@ def heightmap(hm, scale):
             img.putpixel((x // SCALER * 2 + 1, y // SCALER), rightVal)
 
     return img
+
+if __name__ == '__main__':
+    directory = sys.argv[1]
+
+    Image.MAX_IMAGE_PIXELS = 1061683200
+    hm = Image.open("heightmap.tif")
+
+    image = heightmap(hm, s.SCALE)
+    image.save(directory + "/hm.tif")
+
+    scaledpng = topng.to_png(image)
+    scaledpng.save(directory + "/hm.png")

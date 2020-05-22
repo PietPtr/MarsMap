@@ -1,6 +1,9 @@
 from PIL import Image, ImageDraw
 from colour import Color
 import vectormath as vmath
+import settings as s
+import sys
+
 
 def sobel(x, y, hm, sobelscale):
     s = []
@@ -44,3 +47,12 @@ def normalmap(hm, sobelscale):
                 nm.putpixel((x, y), color)
 
     return nm
+
+
+
+if __name__ == '__main__':
+    directory = sys.argv[1]
+    hm = Image.open(directory + "/pm.tif")
+
+    image = normalmap(hm, s.sobelScale)
+    image.save(directory + "/nm.png")

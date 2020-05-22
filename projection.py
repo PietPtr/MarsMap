@@ -1,6 +1,9 @@
 from PIL import Image, ImageDraw
 from colour import Color
 import math
+import settings as s
+import sys
+import topng
 
 def cylToLatLon(x, y, scale):
     long = x / (128 / scale)
@@ -70,3 +73,15 @@ def projectmap(hm, scale):
             img.putpixel((int(mapx + rwidth / 2), int(mapy + rheight / 2)), value)
 
     return img
+
+
+if __name__ == '__main__':
+    directory = sys.argv[1]
+
+    hm = Image.open(directory + "/hm.tif")
+
+    image = projectmap(hm, s.SCALE)
+    image.save(directory + "/pm.tif")
+
+    scaledpng = topng.to_png(image)
+    scaledpng.save(directory + "/pm.png")

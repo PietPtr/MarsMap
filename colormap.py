@@ -1,6 +1,7 @@
 from PIL import Image, ImageDraw
 from colour import Color
-
+import settings as s
+import sys
 
 def ctot(c):
     return int(c.red * 255), int(c.green * 255), int(c.blue * 255)
@@ -44,3 +45,11 @@ def colormap(hm, gradient, smoothness):
                 setpixel(x, y, value, colorlist, img)
 
     return img
+
+
+if __name__ == '__main__':
+    directory = sys.argv[1]
+    hm = Image.open(directory + "/pm.tif")
+
+    image = colormap(hm, s.gradient, s.smoothness)
+    image.save(directory + "/cm.png")
