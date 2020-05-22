@@ -4,14 +4,14 @@ import math
 
 Image.MAX_IMAGE_PIXELS = 1061683200
 
-hm = Image.open('hm.png')
+hm = Image.open('hm.tif')
 
-HM_SCALER = 10
+HM_SCALER = 30
 SCALER = 1
 
 width, height = hm.size
 
-img = Image.new('RGBA', (width // SCALER, height // SCALER), color=(0, 0, 0, 0))
+img = Image.new('I', (width // SCALER, height // SCALER), color=(-2147483648))
 
 rwidth, rheight = img.size
 
@@ -64,8 +64,6 @@ def robinson(lat, long):
     diff = (abs(lat) - idx * 5) / 5
     X = X1 * (1 - diff) + X2 * (diff)
     Y = Y1 * (1 - diff) + Y2 * (diff)
-    # X = X1
-    # Y = Y2
 
     R = rwidth / 6.1
 
@@ -80,16 +78,10 @@ if __name__ == '__main__':
         if y % (height // 100) == 0:
             print(y / height * 100)
         for x in range(0, width, SCALER):
-            color = hm.getpixel((x, y))
+            value = hm.getpixel((x, y))
             (lat, long) = cylToLatLon(x - width / 2, y)
             (mapx, mapy) = robinson(lat, long)
 
-            try:
-                img.putpixel((int(mapx + rwidth / 2), int(mapy + rheight / 2)), color)
-            except IndexError:
-                pass
+            img.putpixel((int(mapx + rwidth / 2), int(mapy + rheight / 2)), value)
 
-
-
-
-    img.save("robinson.png")
+    img.save("robinson.tif")

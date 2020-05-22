@@ -3,7 +3,7 @@ from colour import Color
 
 Image.MAX_IMAGE_PIXELS = 1061683200
 
-hm = Image.open('hm.png')
+hm = Image.open('robinson.tif')
 
 SCALER = 1
 
@@ -18,10 +18,10 @@ SMOOTHNESS = 10
 
 gradient = [
     (0, "#615c30"),
-    (3, "#9d7c49"),
-    (7, "#e4be6d"),
-    (11, "#c85844"),
-    (20, "#edc5b5")
+    (4, "#9d7c49"),
+    (11, "#e4be6d"),
+    (20, "#c85844"),
+    (40, "#edc5b5")
 ]
 
 colors = []
@@ -42,18 +42,21 @@ def ctot(c):
 
 def setpixel(x, y, value):
     colorIndex = int( ((value + (-MIN)) / (MAX + (-MIN))) * (len(colors) - 1) )
-    c = colors[colorIndex]
+    try:
+        c = colors[colorIndex]
+    except IndexError:
+        c = Color("#000000")
+
     color = ctot(c)
     img.putpixel((x, y), color)
 
 for y in range(0, height, SCALER):
-    for x in range(0, width // 2, SCALER):
+    if y % (height // 100) == 0:
+        print(y / height * 100)
+    for x in range(0, width, SCALER):
         value = hm.getpixel((x, y))
-        setpixel(x // SCALER * 2, y // SCALER, value)
-        rightVal = hm.getpixel((x + width // 2, y))
-        setpixel(x // SCALER * 2 + 1,y // SCALER, rightVal)
-        # img.putpixel((x // SCALER * 2,y // SCALER), value)
-        # img.putpixel((x // SCALER * 2 + 1,y // SCALER), hm.getpixel((x + width // 2, y)))
+        if value != -2147483648:
+            setpixel(x // SCALER, y // SCALER, value)
 
 
 img.save("cm.png")
