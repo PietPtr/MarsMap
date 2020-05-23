@@ -38,6 +38,7 @@ robinsonTable = [
 RADS = math.pi / 180
 
 # lat and long in degrees
+# range of lat is (-90, 90)
 def robinson(lat, long, R):
     idx = int(abs(lat) // 5)
     (X1, Y1) = robinsonTable[idx]

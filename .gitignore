@@ -1,3 +1,4 @@
 *.png
 *.tif
 *__pycache__/
+*.svg
