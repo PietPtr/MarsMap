@@ -10,11 +10,13 @@ Fluctus         Terrain covered by outflow of liquid
 Labyrinthus     Valley complex
 Mensa           Mesa
 Mons            Mountain, volcano
+Palus           Small plain
 Patera          Shallow volcano
 Planitia        Basin, low plain
 Planum          high plain, plateau
 Rupes           Scarp, cliff
 Sulci           Subparallel furrows and ridges
+Scopuli         Irregular scarp
 Terra           Land, region
 Tholus          Domical volcano
 Valles          Valley
