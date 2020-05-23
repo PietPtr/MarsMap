@@ -1,5 +1,8 @@
 import vectormath as vmath
 import math
+from PIL import Image, ImageDraw
+
+Image.MAX_IMAGE_PIXELS = 1061683200
 
 SCALE = 2
 

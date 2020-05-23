@@ -20,7 +20,6 @@ if len(sys.argv) > 1:
 
 Path("./" + directory).mkdir(parents=True, exist_ok=True)
 
-Image.MAX_IMAGE_PIXELS = 1061683200
 hm = Image.open('heightmap.tif')
 
 
