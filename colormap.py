@@ -8,7 +8,7 @@ def ctot(c):
 
 def setpixel(x, y, value, colors, img):
     MAX = 1385517713
-    MIN = -513154762
+    MIN = -563154762
     colorIndex = int( ((value + (-MIN)) / (MAX + (-MIN))) * (len(colors) - 1) )
     try:
         c = colors[colorIndex]
