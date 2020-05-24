@@ -13,3 +13,5 @@ In the specified `$directory` the following files are generated:
 * `cm.png`, the color map.
 * `nm.png`, the normalmap.
 * `map.png`, the final shaded map.
+
+To combine everything in a nice map, `annotations.svg` has the names of many different features and an overlay with lines showing latitudes and longitudes.
