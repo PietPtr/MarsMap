@@ -20,9 +20,12 @@ def heightmap(hm, scale):
             print("hm", y / height * 100)
         for x in range(0, width // 2, SCALER):
             value = hm.getpixel((x, y))
-            img.putpixel((x // SCALER * 2, y // SCALER), value)
             rightVal = hm.getpixel((x + width // 2, y))
-            img.putpixel((x // SCALER * 2 + 1, y // SCALER), rightVal)
+            try:
+                img.putpixel((x // SCALER * 2, y // SCALER), value)
+                img.putpixel((x // SCALER * 2 + 1, y // SCALER), rightVal)
+            except IndexError:
+                pass
 
     return img
 
