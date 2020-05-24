@@ -2,6 +2,7 @@ https://en.wikipedia.org/wiki/Planetary_geology#Features_and_terms
 
 Catena          Chain of craters
 Cavus           Hollows
+Chaos           Broken terrain
 Chasma          Canyon
 Colles          Hills
 Dorsa           Wrinkle ridge
@@ -19,5 +20,6 @@ Sulci           Subparallel furrows and ridges
 Scopuli         Irregular scarp
 Terra           Land, region
 Tholus          Domical volcano
+Undae           Field of dunes
 Valles          Valley
 Vastitas        Extensive plane
