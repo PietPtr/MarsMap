@@ -22,6 +22,8 @@ Path("./" + directory).mkdir(parents=True, exist_ok=True)
 
 hm = Image.open('heightmap.tif')
 
+probableTime = int( 1105 * ((10 / s.SCALE) ** 2) )
+print("Projected time to complete: ", probableTime // 60, "minutes, ", probableTime % 60, "seconds")
 
 scaled = heightmap.heightmap(hm, s.SCALE)
 scaled.save(directory + "/hm.tif")
