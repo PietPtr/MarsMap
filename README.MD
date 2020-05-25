@@ -15,3 +15,8 @@ In the specified `$directory` the following files are generated:
 * `map.png`, the final shaded map.
 
 To combine everything in a nice map, `annotations.svg` has the names of many different features and an overlay with lines showing latitudes and longitudes.
+
+# License
+
+All graphics files in this project are licensed under the CC-BY-SA 3.0.
+All code in this project is licensed under the GPL version 3 or (at your option) any later version.
