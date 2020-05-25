@@ -19,4 +19,5 @@ To combine everything in a nice map, `annotations.svg` has the names of many dif
 # License
 
 All graphics files in this project are licensed under the CC-BY-SA 3.0.
+
 All code in this project is licensed under the GPL version 3 or (at your option) any later version.
