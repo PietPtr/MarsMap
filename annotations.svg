@@ -47,6 +47,11 @@
        d="m 1424.0122,729.97231 c 0,0 16.2916,-12.26547 38.8563,-24.81186"
        id="path25964-1"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 585.78749,344.62709 c 0.26459,-0.52917 4.7625,-8.06979 24.20938,-17.19792 19.44687,-9.12812 23.68021,-18.25625 23.68021,-18.25625"
+       id="path28134-1"
+       inkscape:connector-curvature="0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2339.5448"
-     inkscape:cy="2247.3837"
+     inkscape:zoom="0.21805252"
+     inkscape:cx="3461.0527"
+     inkscape:cy="1953.7923"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -406,45 +411,11 @@
     </g>
   </g>
   <g
-     inkscape:label="map"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,703)"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <image
-       sodipodi:absref="/home/pieter/Coding/python/MarsKaart/twox/map.png"
-       xlink:href="twox/map.png"
-       y="-744.2052"
-       x="-82.410423"
-       id="image3179"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="1082.4104"
-       width="2164.8208" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="629.94385"
-       y="-320.68567"
-       id="text943-6-6-80-7-6-367"><tspan
-         sodipodi:role="line"
-         x="629.94385"
-         y="-320.68567"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan945-9-8-994-2-4-53">Sacra </tspan><tspan
-         sodipodi:role="line"
-         x="629.94385"
-         y="-314.07108"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan2983">Fossae</tspan></text>
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="map 2"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        sodipodi:absref="/home/pieter/Coding/python/MarsKaart/exports/map.png"
        xlink:href="exports/map.png"
@@ -455,6 +426,23 @@
        id="image3051"
        x="-82.848747"
        y="-41.424381" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="map 3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/pieter/Coding/python/MarsKaart/twox2/map.png"
+       xlink:href="twox2/map.png"
+       y="-41.377563"
+       x="-82.755127"
+       id="image3382"
+       style="display:inline;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="1082.7551"
+       width="2165.5103" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1250,44 +1238,11 @@
          x="1955.041"
          y="501.99103"
          style="letter-spacing:0px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">0°</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.40745842px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text943-6-7-9-7-31-9"
-       x="-2.6458333"
-       y="-0.66145831"
-       transform="translate(-1.7197917,-1.3229167)"><textPath
-         xlink:href="#path28134"
-         id="textPath28136"><tspan
-   id="tspan945-9-6-7-8-1-4"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.40745842px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Labeatis Fossae</tspan></textPath></text>
     <path
        style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 585.78749,344.62709 c 0.26459,-0.52917 4.7625,-8.06979 24.20938,-17.19792 19.44687,-9.12812 23.68021,-18.25625 23.68021,-18.25625"
        id="path28134"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="600.4563"
-       y="258.42291"
-       id="text943-6-7-9-7-31-3"><tspan
-         sodipodi:role="line"
-         x="600.4563"
-         y="258.42291"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan945-9-6-7-8-1-48">Ascuris Planum</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="714.98022"
-       y="190.66869"
-       id="text943-6-7-9-7-31-92"><tspan
-         sodipodi:role="line"
-         x="714.98022"
-         y="190.66869"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan945-9-6-7-8-1-2">Perepelkin</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1426,7 +1381,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0.01322916px;word-spacing:0px;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text1164"><textPath
+       id="text1164"
+       transform="translate(-24.023949,8.5799818)"><textPath
          xlink:href="#path1168"
          id="textPath1170"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.34166718px;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:16.88041687px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">VASTITAS     BOREALIS</textPath></text>
@@ -1669,42 +1625,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1327.451"
-       y="720.99664"
+       x="1327.7156"
+       y="725.49457"
        id="text1175-5-9"><tspan
          sodipodi:role="line"
-         x="1329.4354"
-         y="720.99664"
+         x="1329.7"
+         y="725.49457"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1183-4-2">hellas</tspan><tspan
          sodipodi:role="line"
-         x="1327.451"
-         y="729.86194"
+         x="1327.7156"
+         y="734.35986"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1435" /><tspan
          sodipodi:role="line"
-         x="1327.451"
-         y="736.4765"
+         x="1327.7156"
+         y="740.97443"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1437" /><tspan
          sodipodi:role="line"
-         x="1327.451"
-         y="743.09113"
+         x="1327.7156"
+         y="747.58905"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1439" /><tspan
          sodipodi:role="line"
-         x="1327.451"
-         y="749.70569"
-         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1233-6" /><tspan
-         sodipodi:role="line"
-         x="1327.451"
-         y="756.32025"
+         x="1327.7156"
+         y="754.20361"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1229-8" /><tspan
          sodipodi:role="line"
-         x="1329.4354"
-         y="769.5036"
+         x="1329.7"
+         y="767.3869"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1231-5">planitia</tspan></text>
     <text
@@ -3071,13 +3022,14 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:3.33110404px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text943-6-7-9-7-4-5-4"
        x="-1.3273485"
-       y="-1.5169698"><textPath
+       y="-1.5169698"
+       transform="translate(3.96875,-2.1166667)"><textPath
          xlink:href="#path23452"
          id="textPath23454"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:3.33110404px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Erebus Montes</textPath></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 121.02808,317.19496 c 0,0 49.60062,-24.46154 59.82082,-50.38634"
+       d="m 122.88016,321.16371 c 0,0 37.56208,-35.30946 57.96874,-54.35509"
        id="path23452"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3884,12 +3836,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="310.65326"
-       y="671.98053"
+       x="309.9328"
+       y="671.56342"
        id="text943-6-6-80-7"><tspan
          sodipodi:role="line"
-         x="310.65326"
-         y="671.98053"
+         x="309.9328"
+         y="671.56342"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-8-994-2">Zumba</tspan></text>
     <text
@@ -5280,5 +5232,38 @@
          y="-345.17599"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.33085406px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan23473-2">Adamas Labyrinthus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="600.53064"
+       y="257.69437"
+       id="text943-6-7-9-7-31-3"><tspan
+         sodipodi:role="line"
+         x="600.53064"
+         y="257.69437"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-1-48">Ascuris Planum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="715.05457"
+       y="189.94014"
+       id="text943-6-7-9-7-31-92"><tspan
+         sodipodi:role="line"
+         x="715.05457"
+         y="189.94014"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-1-2">Perepelkin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.40745842px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-7-9-7-31-9"
+       x="-585.74042"
+       y="-321.05942"
+       transform="translate(-2.8083504,-0.42061839)"><textPath
+         xlink:href="#path28134-1"
+         id="textPath28136"><tspan
+   id="tspan945-9-6-7-8-1-4"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.40745842px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Labeatis Fossae</tspan></textPath></text>
   </g>
 </svg>
