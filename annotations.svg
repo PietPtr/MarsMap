@@ -17,9 +17,9 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="annotations.svg"
-   inkscape:export-filename="/home/pieter/Coding/python/MarsKaart/exports/map-ann-maxres-borders.png"
-   inkscape:export-xdpi="268.48999"
-   inkscape:export-ydpi="268.48999">
+   inkscape:export-filename="/tmp/printcandidate.png"
+   inkscape:export-xdpi="50"
+   inkscape:export-ydpi="50">
   <defs
      id="defs2">
     <path
@@ -52,6 +52,21 @@
        d="m 585.78749,344.62709 c 0.26459,-0.52917 4.7625,-8.06979 24.20938,-17.19792 19.44687,-9.12812 23.68021,-18.25625 23.68021,-18.25625"
        id="path28134-1"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.18203114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 670.84845,96.181852 c 0,0 113.95668,13.836238 182.52536,13.934558 68.56868,0.0983 121.58302,1.48404 229.63799,-1.65101 108.055,-3.13505 242.0391,-14.572307 242.0391,-14.572307"
+       id="path1168-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.18203114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 670.84845,96.181852 c 0,0 113.95668,13.836238 182.52536,13.934558 68.56868,0.0983 121.58302,1.48404 229.63799,-1.65101 108.055,-3.13505 242.0391,-14.572307 242.0391,-14.572307"
+       id="path1168-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.18203114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 670.84845,96.181852 c 0,0 113.95668,13.836238 182.52536,13.934558 68.56868,0.0983 121.58302,1.48404 229.63799,-1.65101 108.055,-3.13505 242.0391,-14.572307 242.0391,-14.572307"
+       id="path1168-3"
+       inkscape:connector-curvature="0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,17 +75,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21805252"
-     inkscape:cx="3471.3569"
-     inkscape:cy="1791.026"
+     inkscape:zoom="1"
+     inkscape:cx="7137.5356"
+     inkscape:cy="451.21624"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1078"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1104"
+     inkscape:window-height="1056"
+     inkscape:window-x="810"
+     inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="true"
      inkscape:snap-global="false"
@@ -92,26 +107,34 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="backbg"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="opacity:1;fill:#0a0a0c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#090a0c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28034"
-       width="2448.7268"
-       height="1224.3628"
-       x="-224.35997"
-       y="-112.17878" />
+       width="2304.7935"
+       height="1152.3961"
+       x="-152.39331"
+       y="-76.195465" />
+    <rect
+       style="fill:#090a0c;fill-opacity:1;stroke:none;stroke-width:6.18584108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3451-2"
+       width="2056.4519"
+       height="1328.55"
+       x="-28.225952"
+       y="-164.27502"
+       inkscape:export-filename="/tmp/rect3451-2.png"
+       inkscape:export-xdpi="49.995106"
+       inkscape:export-ydpi="49.995106" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="background"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        d="m 1516.7536,992.06503 38.7943,-11.75641 47.6195,-18.05265 50.3361,-22.52905 44.0316,-24.64414 39.8608,-26.16905 37.7272,-27.39884 35.3029,-28.38262 31.9084,-29.16961 27.447,-29.75994 24.6342,-30.15345 20.464,-30.3994 16.7788,-30.49778 12.6082,-30.49779 8.9223,-30.49778 7.5651,-30.49773 5.2373,-30.49778 3.1037,-30.49779 1.3571,-30.49779 -1.3571,-30.49779 -3.1037,-30.49778 -5.2373,-30.49786 -7.5651,-30.49779 -8.9223,-30.49772 -12.6082,-30.49778 -16.7788,-30.49779 -20.464,-30.39939 -24.6342,-30.15346 -27.447,-29.75994 -31.9084,-29.16967 -35.3029,-28.38262 -37.7272,-27.39877 -39.8608,-26.169049 -44.0316,-24.644215 -50.3361,-22.528978 -47.6195,-18.052716 -38.7943,-11.7564159 H 484.43779 l -38.79436,11.7564159 -47.61955,18.052716 -50.33602,22.528978 -44.03161,24.644215 -39.86082,26.169049 -37.72721,27.39877 -35.30287,28.38262 -31.9085,29.16967 -27.44698,29.75994 -24.63409,30.15346 -20.46398,30.39939 -16.778906,30.49779 -12.608116,30.49778 -8.922332,30.49772 -7.565149,30.49779 -5.23725,30.49786 -3.103633,30.49778 -1.357883,30.49779 1.357883,30.49779 3.103633,30.49779 5.23725,30.49778 7.565149,30.49773 8.922332,30.49778 12.608116,30.49779 16.778906,30.49778 20.46398,30.3994 24.63409,30.15345 27.44698,29.75994 31.9085,29.16961 35.30287,28.38262 37.72721,27.39884 39.86082,26.16905 44.03161,24.64414 50.33602,22.52905 47.61955,18.05265 38.79436,11.75641 z"
        id="path26631"
-       style="opacity:1;fill:#141414;fill-opacity:1;stroke:none;stroke-width:1.84906435"
+       style="opacity:1;fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <g
@@ -409,6 +432,513 @@
            id="tspan26180-9-4-7"
            sodipodi:role="line">180°</tspan></text>
     </g>
+    <text
+       y="1038.057"
+       x="1340.2395"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0.01322916px;word-spacing:0px;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text1164-8"
+       transform="translate(668.88668,961.04624)">VASTITAS     BOREALIS</text>
+    <g
+       id="g4767"
+       transform="translate(15.657337,6.010273e-5)"
+       inkscape:export-filename="/home/pieter/g4767.png"
+       inkscape:export-xdpi="394"
+       inkscape:export-ydpi="394">
+      <rect
+         y="802.37372"
+         x="1810.4594"
+         height="187.72141"
+         width="143.73541"
+         id="rect4785"
+         style="display:inline;fill:#141414;fill-opacity:1;stroke:#1e1e1e;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-47.581517,-3.7041394)"
+         id="g4140"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1889.3402"
+           y="838.51477"
+           id="text943-8-93-8-8-49-1"><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="838.51477"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4332">Catena</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="845.12933"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4338">Cavus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="851.74396"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4340">Chaos</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="858.35852"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4342">Chasma</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="864.97308"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4344">Colles</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="871.58771"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4346">Dorsum</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="878.20227"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4348">Fossa</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="884.81683"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4350">Fluctus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="891.43146"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4352">Labyrinthus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="898.04602"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4354">Mensa</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="904.66058"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4356">Mons</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="911.27521"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4358">Palus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="917.88977"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4360">Patera</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="924.50433"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4362">Planitia</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="931.11896"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4364">Planum</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="937.73352"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4366">Rupes</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="944.34808"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4370">Scopulus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="950.96271"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4772">Sulcus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="957.57727"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4372">Terra</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="964.19183"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4374">Tholus</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="970.80646"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4376">Undae</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="977.42102"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4378">Vallis</tspan><tspan
+             sodipodi:role="line"
+             x="1889.3402"
+             y="984.03558"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4380">Vastitas</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1894.3009"
+           y="838.51477"
+           id="text943-8-93-8-8-49-1-9"><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="838.51477"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4380-8">Chain of craters</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="845.12933"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4741">Hollows</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="851.74396"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4743">Broken terrain</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="858.35852"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4745">Canyon</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="864.97308"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4747">Hills</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="871.58771"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4749">Wrinkle ridge</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="878.20227"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4751">Narrow depression</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="884.81683"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4753">Outflow of liquid</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="891.43146"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4755">Valley complex</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="898.04602"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4757">Mesa</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="904.66058"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4759">Mountain, volcano</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="911.27521"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4761">Small plain</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="917.88977"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4763">Shallow volcano</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="924.50433"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4765">Low plain</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="931.11896"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4767">High plain, plateau</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="937.73352"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4769">Scarp, cliff</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="944.34808"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4776">Irregular scarp</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="950.96271"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4773">Furrows and ridges</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="957.57727"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4775">Land, region</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="964.19183"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4777">Domical volcano</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="970.80646"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4779">Field of dunes</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="977.42102"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4781">Valley</tspan><tspan
+             sodipodi:role="line"
+             x="1894.3009"
+             y="984.03558"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan4783">Extensive plane</tspan></text>
+      </g>
+      <text
+         id="text1175-5-1-7-1"
+         y="818.39948"
+         x="1854.2549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan22832-3"
+           style="font-size:15.875px;text-align:start;letter-spacing:5.99810123px;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+           y="818.39948"
+           x="1854.2549"
+           sodipodi:role="line">mars</tspan></text>
+      <g
+         transform="translate(-70.0711,-3.7041353)"
+         id="g4090">
+        <g
+           style="display:inline"
+           id="g3944"
+           transform="translate(10.31875,2.3182507)">
+          <g
+             transform="matrix(1.0004156,0,0,0.95113683,-9.292914,44.623921)"
+             id="g3839">
+            <image
+               sodipodi:absref="/home/pieter/Coding/python/MarsKaart/colorlegend.png"
+               xlink:href="colorlegend.png"
+               style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               y="-983.52179"
+               x="1977.2788"
+               id="image3417"
+               preserveAspectRatio="none"
+               height="151.38838"
+               width="21.349138"
+               transform="scale(1,-1)" />
+            <path
+               d="M 1977.2893,832.13355 V 983.5217 m 21.3284,-151.38815 V 983.5217 m -21.3284,-151.38815 h 21.3284 m -21.3284,10.09254 h 21.3284 m -21.3284,10.09255 h 21.3284 m -21.3284,10.09255 h 21.3284 m -21.3284,10.09253 h 21.3284 m -21.3284,10.09256 h 21.3284 m -21.3284,10.09255 h 21.3284 m -21.3284,10.09254 h 21.3284 m -21.3284,10.09255 h 21.3284 m -21.3284,10.09254 h 21.3284 m -21.3284,10.09255 h 21.3284 m -21.3284,10.09256 h 21.3284 m -21.3284,10.09253 h 21.3284 m -21.3284,10.09254 h 21.3284 m -21.3284,10.09256 h 21.3284 m -21.3284,10.0925 h 21.3284"
+               style="fill:none;stroke:#000008;stroke-width:0.23198007px;stroke-opacity:1"
+               id="path3446"
+               inkscape:connector-curvature="0" />
+            <rect
+               style="fill:none;fill-opacity:1;stroke:#d7d1ae;stroke-width:0.36228335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect3664"
+               width="21.385979"
+               height="151.43193"
+               x="1977.2605"
+               y="832.11163" />
+          </g>
+          <g
+             transform="translate(-3.7930102,-0.283957)"
+             id="g3905">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5316"
+               y="837.69232"
+               id="text943-8-93-8-8-63-3"><tspan
+                 sodipodi:role="line"
+                 x="2002.5316"
+                 y="837.69232"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6">22.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.4072"
+               y="866.46411"
+               id="text943-8-93-8-8-63-3-7"><tspan
+                 sodipodi:role="line"
+                 x="2002.4072"
+                 y="866.46411"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-5">16.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.4072"
+               y="895.23596"
+               id="text943-8-93-8-8-63-3-3"><tspan
+                 sodipodi:role="line"
+                 x="2002.4072"
+                 y="895.23596"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56">10.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5316"
+               y="943.18903"
+               id="text943-8-93-8-8-63-3-3-2"><tspan
+                 sodipodi:role="line"
+                 x="2002.5316"
+                 y="943.18903"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9">0</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.6136"
+               y="952.7796"
+               id="text943-8-93-8-8-63-3-3-2-1"><tspan
+                 sodipodi:role="line"
+                 x="2002.6136"
+                 y="952.7796"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-2">-2.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.6136"
+               y="971.96082"
+               id="text943-8-93-8-8-63-3-3-2-7"><tspan
+                 sodipodi:role="line"
+                 x="2002.6136"
+                 y="971.96082"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-0">-6.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.6136"
+               y="962.37024"
+               id="text943-8-93-8-8-63-3-3-2-9"><tspan
+                 sodipodi:role="line"
+                 x="2002.6136"
+                 y="962.37024"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-3">-4.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5316"
+               y="933.59839"
+               id="text943-8-93-8-8-63-3-3-2-6"><tspan
+                 sodipodi:role="line"
+                 x="2002.5316"
+                 y="933.59839"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-06">2.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5686"
+               y="924.00781"
+               id="text943-8-93-8-8-63-3-3-2-2"><tspan
+                 sodipodi:role="line"
+                 x="2002.5686"
+                 y="924.00781"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-6">4.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5316"
+               y="914.41718"
+               id="text943-8-93-8-8-63-3-3-2-18"><tspan
+                 sodipodi:role="line"
+                 x="2002.5316"
+                 y="914.41718"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-7">6.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5316"
+               y="904.8266"
+               id="text943-8-93-8-8-63-3-3-2-92"><tspan
+                 sodipodi:role="line"
+                 x="2002.5316"
+                 y="904.8266"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-02">8.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.4072"
+               y="885.64539"
+               id="text943-8-93-8-8-63-3-3-2-3"><tspan
+                 sodipodi:role="line"
+                 x="2002.4072"
+                 y="885.64539"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-75">12.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.4072"
+               y="876.05475"
+               id="text943-8-93-8-8-63-3-3-2-922"><tspan
+                 sodipodi:role="line"
+                 x="2002.4072"
+                 y="876.05475"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-8">14.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.4072"
+               y="856.87354"
+               id="text943-8-93-8-8-63-3-3-2-97"><tspan
+                 sodipodi:role="line"
+                 x="2002.4072"
+                 y="856.87354"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-36">18.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.5316"
+               y="847.2829"
+               id="text943-8-93-8-8-63-3-3-2-12"><tspan
+                 sodipodi:role="line"
+                 x="2002.5316"
+                 y="847.2829"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-9">20.000</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#d7d1ae;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="2002.6136"
+               y="981.55145"
+               id="text943-8-93-8-8-63-3-3-2-31"><tspan
+                 sodipodi:role="line"
+                 x="2002.6136"
+                 y="981.55145"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+                 id="tspan1321-4-6-13-32-6-56-9-94">-8.000</tspan></text>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-910.15546"
+           y="1976.1819"
+           id="text943-8-93-8-8-63-7"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             x="-910.15546"
+             y="1976.1819"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1321-4-6-13-32-8">Elevation (meters)</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -417,8 +947,8 @@
      style="display:none"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/pieter/Coding/python/MarsKaart/exports/map.png"
-       xlink:href="exports/map.png"
+       sodipodi:absref="/home/pieter/Coding/python/MarsKaart/twox2/map.png"
+       xlink:href="twox2/map.png"
        width="2165.6975"
        height="1082.8488"
        preserveAspectRatio="none"
@@ -1248,8 +1778,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="features"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1317,17 +1846,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1745.3804"
-       y="343.87982"
+       x="1743.5095"
+       y="344.16046"
        id="text943-6-9"><tspan
          sodipodi:role="line"
          id="tspan941-3-9"
-         x="1745.3804"
-         y="343.87982"
+         x="1743.5095"
+         y="344.16046"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Elysium Mons</tspan><tspan
          sodipodi:role="line"
-         x="1745.3804"
-         y="350.49442"
+         x="1743.5095"
+         y="350.77505"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-1">+13.862 meters</tspan></text>
     <text
@@ -1393,91 +1922,91 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="799.07648"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="838.28247"
        y="158.59506"
        id="text1175"><tspan
          sodipodi:role="line"
          id="tspan1173"
-         x="799.07648"
+         x="840.26685"
          y="158.59506"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">acidalia</tspan><tspan
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">acidalia</tspan><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="167.46037"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22920" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="174.07495"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22922" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="180.68953"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22924" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="187.30412"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22926" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="193.9187"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22928" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="200.53328"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1177" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="838.28247"
          y="207.14787"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1179" /><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="844.59045"
          y="220.33118"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1181">  </tspan><tspan
          sodipodi:role="line"
-         x="799.07648"
+         x="840.26685"
          y="235.7652"
-         style="font-style:italic;font-size:12.34722233px;letter-spacing:3.96875px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1183"> planitia</tspan></text>
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1183">planitia</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="776.33875"
-       y="307.1185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="801.66388"
+       y="305.6218"
        id="text1175-5"><tspan
          sodipodi:role="line"
-         x="776.33875"
-         y="307.1185"
-         style="font-style:italic;font-size:12.34722233px;text-align:start;letter-spacing:3.96875px;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         x="803.64825"
+         y="305.6218"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1183-4">chryse</tspan><tspan
          sodipodi:role="line"
-         x="776.33875"
-         y="315.9838"
-         style="font-style:italic;font-size:12.34722233px;text-align:start;letter-spacing:3.96875px;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         x="801.66388"
+         y="314.48709"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22930" /><tspan
          sodipodi:role="line"
-         x="776.33875"
-         y="322.59839"
-         style="font-style:italic;font-size:12.34722233px;text-align:start;letter-spacing:3.96875px;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         x="801.66388"
+         y="321.10168"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1233" /><tspan
          sodipodi:role="line"
-         x="776.33875"
-         y="329.21298"
-         style="font-style:italic;font-size:12.34722233px;text-align:start;letter-spacing:3.96875px;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1229" /><tspan
+         x="801.66388"
+         y="327.71628"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1231" /><tspan
          sodipodi:role="line"
-         x="776.33875"
-         y="342.39627"
-         style="font-style:italic;font-size:12.34722233px;text-align:start;letter-spacing:3.96875px;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1231"> planitia</tspan></text>
+         x="803.64825"
+         y="340.89957"
+         style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3227">planitia</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1581,23 +2110,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1065.1787"
-       y="598.41443"
+       x="1039.5476"
+       y="607.20758"
        id="text943-8-93-0"><tspan
          sodipodi:role="line"
-         x="1065.1787"
-         y="598.41443"
+         x="1039.5476"
+         y="607.20758"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-0">Wislicenus</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1089.114"
-       y="626.78442"
+       x="1059.613"
+       y="635.51569"
        id="text943-8-93-8"><tspan
          sodipodi:role="line"
-         x="1089.114"
-         y="626.78442"
+         x="1059.613"
+         y="635.51569"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6">Bakhuysen</tspan></text>
     <text
@@ -1710,23 +2239,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1115.9749"
-       y="435.36591"
+       x="1115.4457"
+       y="436.9534"
        id="text943-6-7-9"><tspan
          sodipodi:role="line"
-         x="1115.9749"
-         y="435.36591"
+         x="1115.4457"
+         y="436.9534"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7">Henry</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1173.874"
-       y="479.25253"
+       x="1204.9949"
+       y="490.67825"
        id="text943-6-7-0"><tspan
          sodipodi:role="line"
-         x="1173.874"
-         y="479.25253"
+         x="1204.9949"
+         y="490.67825"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-3">Janssen</tspan></text>
     <text
@@ -1979,18 +2508,13 @@
          y="210.51454"
          style="font-style:italic;font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1231-8">planitia</tspan></text>
-    <path
-       style="fill:none;stroke:none;stroke-width:0.34520632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 332.09985,560.44201 c 0,0 1.44523,-12.62099 54.91766,-79.76482 53.47242,-67.14385 72.26002,-85.82298 72.26002,-85.82298"
-       id="path7937"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text1175-5-5-06"><textPath
-         xlink:href="#path7937"
-         startOffset="50%"
-         id="textPath8014"><tspan
+       id="text1175-5-5-06"
+       transform="rotate(0.26815488,3386.9293,365.45927)"><textPath
+         xlink:href="#path3860"
+         id="textPath3862"><tspan
    id="tspan7749-4"
    style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">tharsis montes</tspan></textPath></text>
     <text
@@ -2097,7 +2621,7 @@
        id="text1175-5-5-0-9-9-4-5"
        x="-2.1453192"
        y="4.0224733"
-       transform="translate(-3.7543086,1.8771543)"><textPath
+       transform="translate(-4.6142044,3.9276751)"><textPath
          xlink:href="#path22294"
          startOffset="50%"
          id="textPath22340"
@@ -2127,19 +2651,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1903.4366"
+       x="1903.9979"
        y="549.36963"
        id="text943-6-9-3-8-1"><tspan
          sodipodi:role="line"
-         x="1903.4366"
+         x="1903.9979"
          y="549.36963"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1131-8">Apollinaris</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan22403">Apollinaris Mons</tspan><tspan
          sodipodi:role="line"
-         x="1903.4366"
+         x="1903.9979"
          y="555.98419"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan22403">Mons</tspan></text>
+         id="tspan4186">+3.155 meters</tspan></text>
     <path
        style="fill:none;stroke:none;stroke-width:0.270518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1791.424,488.413 c 0,0 9.1945,12.47477 27.3918,30.79707"
@@ -2359,32 +2883,32 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="908.70203"
-       y="604.38538"
+       x="926.69366"
+       y="563.63947"
        id="text1175-5-1-3"><tspan
          sodipodi:role="line"
-         x="915.01001"
-         y="604.38538"
+         x="933.00165"
+         y="563.63947"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22701">MARGARITIFER   </tspan><tspan
          sodipodi:role="line"
-         x="908.70203"
-         y="613.25067"
+         x="926.69366"
+         y="572.50476"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22749" /><tspan
          sodipodi:role="line"
-         x="908.70203"
-         y="619.86523"
+         x="926.69366"
+         y="579.11932"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22751" /><tspan
          sodipodi:role="line"
-         x="908.70203"
-         y="626.47986"
+         x="926.69366"
+         y="585.73395"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22753" /><tspan
          sodipodi:role="line"
-         x="910.6864"
-         y="639.66315"
+         x="928.67804"
+         y="598.91724"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan22747">TERRA</tspan></text>
     <text
@@ -2472,37 +2996,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="672.57959"
-       y="262.84564"
+       x="673.14087"
+       y="266.40033"
        id="text1175-5-1-64"><tspan
          sodipodi:role="line"
-         x="674.56396"
-         y="262.84564"
+         x="675.12524"
+         y="266.40033"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1275-3">TEMPE</tspan><tspan
          sodipodi:role="line"
-         x="672.57959"
-         y="271.71094"
+         x="673.14087"
+         y="275.26562"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1288-7" /><tspan
          sodipodi:role="line"
-         x="672.57959"
-         y="278.32553"
+         x="673.14087"
+         y="281.88022"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1292-7" /><tspan
          sodipodi:role="line"
-         x="672.57959"
-         y="284.94012"
+         x="673.14087"
+         y="288.49481"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1294-0" /><tspan
          sodipodi:role="line"
-         x="672.57959"
-         y="291.55469"
+         x="673.14087"
+         y="295.10938"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1296-7" /><tspan
          sodipodi:role="line"
-         x="674.56396"
-         y="304.73801"
+         x="675.12524"
+         y="308.29269"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1290-4">TERRA</tspan></text>
     <text
@@ -2549,42 +3073,42 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1174.5712"
-       y="469.98138"
+       x="1215.0524"
+       y="464.42511"
        id="text1175-5-1-9"><tspan
          sodipodi:role="line"
-         x="1176.5555"
-         y="469.98138"
+         x="1217.0367"
+         y="464.42511"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1275-9">TERRA</tspan><tspan
          sodipodi:role="line"
-         x="1174.5712"
-         y="478.84668"
+         x="1215.0524"
+         y="473.29041"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1286-5" /><tspan
          sodipodi:role="line"
-         x="1174.5712"
-         y="485.46127"
+         x="1215.0524"
+         y="479.905"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1288-2" /><tspan
          sodipodi:role="line"
-         x="1174.5712"
-         y="492.07587"
+         x="1215.0524"
+         y="486.51959"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1292-08" /><tspan
          sodipodi:role="line"
-         x="1174.5712"
-         y="498.69043"
+         x="1215.0524"
+         y="493.13416"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1294-3" /><tspan
          sodipodi:role="line"
-         x="1174.5712"
-         y="505.30502"
+         x="1215.0524"
+         y="499.74875"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1296-5" /><tspan
          sodipodi:role="line"
-         x="1176.5555"
-         y="518.48834"
+         x="1217.0367"
+         y="512.93207"
          style="font-size:12.34722233px;text-align:center;letter-spacing:3.96875px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1290-9">SABAEA</tspan></text>
     <text
@@ -2683,12 +3207,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="982.66241"
-       y="302.79129"
+       x="979.38837"
+       y="310.60223"
        id="text943-6-7-9-7"><tspan
          sodipodi:role="line"
-         x="982.66241"
-         y="302.79129"
+         x="979.38837"
+         y="310.60223"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7-8">Sklodowska</tspan></text>
     <text
@@ -2708,13 +3232,13 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="418.07437"
-       y="815.77728"
+       x="423.18503"
+       y="816.43329"
        id="text943-6-7-9-7-7"
        transform="rotate(-49.192205)"><tspan
          sodipodi:role="line"
-         x="418.07437"
-         y="815.77728"
+         x="423.18503"
+         y="816.43329"
          style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Oblique';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7-8-32">Acidalia Colles</tspan></text>
     <text
@@ -2754,22 +3278,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="745.51929"
-       y="274.97766"
+       x="746.45471"
+       y="274.41638"
        id="text943-6-7-9-7-8"><tspan
          sodipodi:role="line"
-         x="745.51929"
-         y="274.97766"
+         x="746.45471"
+         y="274.41638"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7-8-00"> Idaeus</tspan><tspan
          sodipodi:role="line"
-         x="745.51929"
-         y="281.59225"
+         x="746.45471"
+         y="281.03098"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan23103" /><tspan
          sodipodi:role="line"
-         x="745.51929"
-         y="288.20682"
+         x="746.45471"
+         y="287.64554"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan23105">Fossae</tspan></text>
     <text
@@ -2823,7 +3347,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"> Ismeniae Fossae</tspan></textPath></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1165.9913,264.94723 c 0,0 5.027,4.1985 18.4,4.1985 13.3727,0 19.2043,-4.51338 19.2043,-4.51338"
+       d="m 1166.3655,267.00521 c 0,0 5.027,4.1985 18.4,4.1985 13.3727,0 19.2043,-4.51338 19.2043,-4.51338"
        id="path23162"
        inkscape:connector-curvature="0" />
     <path
@@ -2836,7 +3360,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text943-6-7-9-7-66-6"
        x="-1.8771542"
-       y="-4.6928859"><textPath
+       y="-4.6928859"
+       transform="rotate(6.6483703,1232.805,311.53498)"><textPath
          xlink:href="#path23167"
          id="textPath23177"><tspan
    id="tspan945-9-6-7-8-8-1"
@@ -2850,7 +3375,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text943-6-7-9-7-66-7"
-       transform="translate(6.57004,2.681649)"><textPath
+       transform="translate(-4.7763208,6.2989193)"><textPath
          xlink:href="#path23180"
          id="textPath23200"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.73566663px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Mamers Valles</textPath></text>
@@ -2972,14 +3497,14 @@
        id="text943-6-7-9-7-4-3-7"
        x="0.80521971"
        y="-0.92909968"
-       transform="translate(0.80521971,-0.74327973)"><textPath
+       transform="translate(3.054178,-1.4047381)"><textPath
          xlink:href="#path23363"
          id="textPath23365"><tspan
    id="tspan945-9-6-7-8-0-8-3"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Acheron Catena</tspan></textPath></text>
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Tractus Catena</tspan></textPath></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 489.20515,321.39963 c 0.33435,-0.28291 3.52861,-7.13967 10.83278,-15.72995 7.30413,-8.59028 17.63803,-17.8853 17.63803,-17.8853"
+       d="m 480.1889,320.35459 c 0.33435,-0.28291 3.52861,-7.13967 10.83278,-15.72995 7.30413,-8.59028 17.63803,-17.8853 17.63803,-17.8853"
        id="path23363"
        inkscape:connector-curvature="0" />
     <text
@@ -2996,15 +3521,15 @@
          id="tspan945-9-6-7-8-0-8-5">Mareotis Fossae</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="339.53705"
-       y="204.645"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:2.50560451px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="438.75342"
+       y="148.85359"
        id="text943-6-7-9-7-08-9"
-       transform="rotate(-10.780731)"><tspan
+       transform="rotate(-4.7242876)"><tspan
          sodipodi:role="line"
-         x="339.53705"
-         y="204.645"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.73818749px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         x="438.75342"
+         y="148.85359"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:2.50560451px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan23402"> Scandia Colles</tspan></text>
     <text
        xml:space="preserve"
@@ -3047,17 +3572,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1504.2856"
-       y="241.83571"
+       x="1493.0409"
+       y="246.46591"
        id="text943-6-7-9-7-4-5-7"><tspan
          sodipodi:role="line"
-         x="1504.2856"
-         y="241.83571"
+         x="1493.0409"
+         y="246.46591"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7-8-0-04-1">Nier</tspan><tspan
          sodipodi:role="line"
-         x="1504.2856"
-         y="248.45029"
+         x="1493.0409"
+         y="253.08049"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan23473" /></text>
     <text
@@ -3112,7 +3637,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.86783332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text943-6-7-9-7-4-5-5"
        x="-0.13408245"
-       y="-1.206742"><textPath
+       y="-1.206742"
+       transform="translate(-4.6302083,3.571875)"><textPath
          xlink:href="#path23517"
          id="textPath23527"><tspan
    id="tspan945-9-6-7-8-0-04-5"
@@ -3397,13 +3923,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="514.90851"
-       y="574.7738"
+       x="728.39117"
+       y="287.987"
        id="text943-6-7-9-7-4-5-04"
-       transform="rotate(-9.2586699)"><tspan
+       transform="rotate(16.85256)"><tspan
          sodipodi:role="line"
-         x="514.90851"
-         y="574.7738"
+         x="728.39117"
+         y="287.987"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7-8-0-04-05">Juventae Dorsa</tspan></text>
     <text
@@ -3626,12 +4152,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1304.9967"
-       y="377.40817"
+       x="1304.203"
+       y="375.02692"
        id="text943-6-7-9-6"><tspan
          sodipodi:role="line"
-         x="1304.9967"
-         y="377.40817"
+         x="1304.203"
+         y="375.02692"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-6-7-9">Antoniadi</tspan></text>
     <text
@@ -3657,20 +4183,21 @@
          id="tspan7749-9-2-8-9">planum</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.21443737px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:4.50320864px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text943-6-6-9"
        x="1.6117804"
        y="-1.8014016"
-       transform="translate(-3.9820456,13.557917)"><textPath
+       transform="translate(-0.61444955,10.190321)"><textPath
          xlink:href="#path24144"
          id="textPath24146"><tspan
    id="tspan945-9-8-9"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.21443737px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Libya Montes</tspan></textPath></text>
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:4.50320864px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Libya Montes</tspan></textPath></text>
     <path
        style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1421.6851,469.2502 c 0.2844,0.47406 11.2824,12.32538 26.1677,12.32538 14.8853,0 22.9442,-3.31835 22.9442,-3.31835"
+       d="m 1421.6851,469.2502 c 0.2844,0.47406 23.0983,17.00076 38.7026,16.25424 14.8977,-0.7127 37.3501,-16.04038 37.3501,-16.04038"
        id="path24144"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:2.81516695px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3753,12 +4280,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="124.00525"
-       y="607.49976"
+       x="125.5955"
+       y="607.40619"
        id="text943-6-6-97"><tspan
          sodipodi:role="line"
-         x="124.00525"
-         y="607.49976"
+         x="125.5955"
+         y="607.40619"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-8-60">Williams</tspan></text>
     <text
@@ -3786,15 +4313,13 @@
          id="tspan945-9-8-24">Medusa Fossae</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="194.6667"
-       y="545.82178"
-       id="text943-6-6-81"><tspan
-         sodipodi:role="line"
-         x="194.6667"
-         y="545.82178"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan945-9-8-48">Mangala Valles</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:3.0480001px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-6-81"
+       transform="translate(2.2489583,-7.9375)"><textPath
+         xlink:href="#path4087"
+         id="textPath4089"><tspan
+   id="tspan945-9-8-48"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:3.0480001px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Mangala Valles</tspan></textPath></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3836,12 +4361,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="309.9328"
-       y="671.56342"
+       x="325.51016"
+       y="672.29102"
        id="text943-6-6-80-7"><tspan
          sodipodi:role="line"
-         x="309.9328"
-         y="671.56342"
+         x="325.51016"
+         y="672.29102"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-8-994-2">Zumba</tspan></text>
     <text
@@ -3994,12 +4519,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="943.41895"
-       y="584.20807"
+       x="942.75751"
+       y="586.72162"
        id="text943-6-6-80-7-6-36"><tspan
          sodipodi:role="line"
-         x="943.41895"
-         y="584.20807"
+         x="942.75751"
+         y="586.72162"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan945-9-8-994-2-4-7">Beer</tspan></text>
     <text
@@ -4107,12 +4632,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1440.0242"
-       y="660.0675"
+       x="1440.4872"
+       y="661.78729"
        id="text943-8-93-8-8"><tspan
          sodipodi:role="line"
-         x="1440.0242"
-         y="660.0675"
+         x="1440.4872"
+         y="661.78729"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6-13">Isil</tspan></text>
     <text
@@ -4259,12 +4784,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1711.0693"
-       y="528.48602"
+       x="1710.6952"
+       y="530.82465"
        id="text943-8-93-8-8-30"><tspan
          sodipodi:role="line"
-         x="1711.0693"
-         y="528.48602"
+         x="1710.6952"
+         y="530.82465"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6-13-68">Gale</tspan></text>
     <text
@@ -4383,12 +4908,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1598.9485"
-       y="748.31964"
+       x="1611.1193"
+       y="740.64673"
        id="text943-8-93-8-8-53"><tspan
          sodipodi:role="line"
-         x="1598.9485"
-         y="748.31964"
+         x="1611.1193"
+         y="740.64673"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6-13-0">Arrhenius</tspan></text>
     <path
@@ -4567,12 +5092,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="875.29486"
-       y="787.20813"
+       x="866.87585"
+       y="785.99207"
        id="text943-8-93-8-8-65-5-2"><tspan
          sodipodi:role="line"
-         x="875.29486"
-         y="787.20813"
+         x="866.87585"
+         y="785.99207"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6-13-01-1-8">Wirtz</tspan></text>
     <text
@@ -4748,17 +5273,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1267.3234"
-       y="844.3222"
+       x="1266.9265"
+       y="843.92535"
        id="text943-8-93-8-8-65-5-41-5"><tspan
          sodipodi:role="line"
-         x="1267.3234"
-         y="844.3222"
+         x="1266.9265"
+         y="843.92535"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6-13-01-1-24-7"> Amphitrites </tspan><tspan
          sodipodi:role="line"
-         x="1267.3234"
-         y="850.93677"
+         x="1266.9265"
+         y="850.53992"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan25766">Patera</tspan></text>
     <text
@@ -4797,7 +5322,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0.64029163px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text943-8-93-8-8-65-5-41-0"><textPath
+       id="text943-8-93-8-8-65-5-41-0"
+       transform="translate(-3.7041667,-3.4395833)"><textPath
          xlink:href="#path25799"
          startOffset="50%"
          id="textPath25801"><tspan
@@ -4917,12 +5443,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1259.2854"
-       y="868.1358"
+       x="1274.3666"
+       y="860.99207"
        id="text943-8-93-8-8-65-5-41-7-8"><tspan
          sodipodi:role="line"
-         x="1259.2854"
-         y="868.1358"
+         x="1274.3666"
+         y="860.99207"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1321-4-6-13-01-1-24-2-06">Barnard</tspan></text>
     <text
@@ -5010,35 +5536,45 @@
        id="text943-8-93-8-8-65-5-41-7-4-6"
        x="-1433.8962"
        y="-707.05469"
-       transform="translate(-0.56670434,25.53784)"><textPath
+       transform="translate(-3.27949,27.68936)"><textPath
          style="stroke-width:0.26458332"
          xlink:href="#path25964-1"
          startOffset="50%"
          id="textPath25966-7"><tspan
    id="tspan1321-4-6-13-01-1-24-2-3-5"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Reull Vallis</tspan></textPath></text>
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Harmakhis Vallis</tspan></textPath></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1460.7606"
-       y="684.49646"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1460.6774"
+       y="678.27875"
        id="text943-8-93-8-8-16"><tspan
          sodipodi:role="line"
-         x="1460.7606"
-         y="684.49646"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1321-4-6-13-4">Hadriacus Mons</tspan></text>
+         x="1462.4447"
+         y="678.27875"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-4">Hadriacus </tspan><tspan
+         sodipodi:role="line"
+         x="1460.6774"
+         y="684.89331"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4282">Mons</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1850.0381"
-       y="713.1485"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1861.2484"
+       y="705.07867"
        id="text943-8-93-8-8-92"><tspan
          sodipodi:role="line"
-         x="1850.0381"
-         y="713.1485"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1321-4-6-13-7">Ariadnes Colles</tspan></text>
+         x="1861.2484"
+         y="705.07867"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-7">    Ariadnes </tspan><tspan
+         sodipodi:role="line"
+         x="1861.2484"
+         y="711.69324"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;text-anchor:start;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4310">Colles</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5207,7 +5743,7 @@
          x="429.7348"
          y="23.220844"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan945-9-6-7-8-1-17">Scandia Cavia</tspan></text>
+         id="tspan3169">Scandia Cavi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5222,15 +5758,15 @@
          id="tspan945-9-6-7-8-1-0">Aspledon Undae</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.33085406px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1475.218"
-       y="-345.17599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.46566662px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1404.3058"
+       y="-542.69958"
        id="text943-6-7-9-7-4-5-7-5"
-       transform="rotate(23.137298)"><tspan
+       transform="rotate(31.017595)"><tspan
          sodipodi:role="line"
-         x="1475.218"
-         y="-345.17599"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.33085406px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         x="1404.3058"
+         y="-542.69958"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.46566662px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
          id="tspan23473-2">Adamas Labyrinthus</tspan></text>
     <text
        xml:space="preserve"
@@ -5265,5 +5801,666 @@
          id="textPath28136"><tspan
    id="tspan945-9-6-7-8-1-4"
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0.40745842px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Labeatis Fossae</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:4.38679218px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-7-9-7-08-3"
+       transform="translate(-4.4901281,-4.1159507)"><textPath
+         xlink:href="#path3191"
+         id="textPath3193"><tspan
+   id="tspan945-9-6-7-8-7-6"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:4.38679218px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">  Gemini Scopuli</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.2676799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 940.21406,44.589583 c 1.63211,0 60.38834,11.590002 130.02554,0"
+       id="path3191"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:2.55322933px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1436.6953"
+       y="24.499994"
+       id="text943-6-7-9-7-08-7"><tspan
+         sodipodi:role="line"
+         x="1436.6953"
+         y="24.499994"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:2.55322933px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-5">Olympia Rupes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-7-9-7-08-35"
+       x="-9.541522"
+       y="5.6126599"
+       transform="translate(-8.4189901,7.2964581)"><textPath
+         xlink:href="#path3212"
+         id="textPath3214"><tspan
+   id="tspan945-9-6-7-8-7-62"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Tantalus Fluctus</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 518.4227,300.66255 c 0,0 11.22532,-13.2833 27.12786,-24.88279"
+       id="path3212"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="690.33002"
+       y="246.4413"
+       id="text943-6-7-9-7-08-91"><tspan
+         sodipodi:role="line"
+         x="690.33002"
+         y="246.4413"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-2">Timoshenko</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="850.30798"
+       y="256.06696"
+       id="text943-6-7-9-7-08-70"><tspan
+         sodipodi:role="line"
+         x="850.30798"
+         y="256.06696"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-9">Bonestell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-7-9-7-08-36"
+       transform="translate(-2.6458333)"><textPath
+         xlink:href="#path3247"
+         id="textPath3249"><tspan
+   id="tspan945-9-6-7-8-7-0"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Ortygia Colles</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 945.09165,175.82291 c 0,0 9.39271,13.09688 24.73855,23.68021"
+       id="path3247"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="947.28168"
+       y="302.71179"
+       id="text943-6-7-9-7-08-6"><tspan
+         sodipodi:role="line"
+         x="947.28168"
+         y="302.71179"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-26">Eden </tspan><tspan
+         sodipodi:role="line"
+         x="947.28168"
+         y="309.32639"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3260">Patera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1172.7832"
+       y="294.1442"
+       id="text943-6-7-9-7-08-1"><tspan
+         sodipodi:role="line"
+         x="1172.7832"
+         y="294.1442"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-8">Quenisset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1104.9734"
+       y="317.99149"
+       id="text943-6-7-9-7-08-79"><tspan
+         sodipodi:role="line"
+         x="1104.9734"
+         y="317.99149"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-20">Cerulli</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1012.8983"
+       y="272.61545"
+       id="text943-6-7-9-7-08-2"><tspan
+         sodipodi:role="line"
+         x="1012.8983"
+         y="272.61545"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-6-7-8-7-3">Ismenia </tspan><tspan
+         sodipodi:role="line"
+         x="1012.8983"
+         y="279.23004"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3837">Patera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="338.3829"
+       y="482.54251"
+       id="text943-6-6-80-75"><tspan
+         sodipodi:role="line"
+         x="338.3829"
+         y="482.54251"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-9">Biblis</tspan><tspan
+         sodipodi:role="line"
+         x="338.3829"
+         y="489.1571"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3857">Tholus</tspan></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 351.89583,547.5625 c 0,0 35.98333,-74.08333 94.19166,-130.70416"
+       id="path3860"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="570.81525"
+       y="541.47473"
+       id="text943-6-6-80-2"
+       transform="rotate(-7.8602914)"><tspan
+         sodipodi:role="line"
+         x="570.81525"
+         y="541.47473"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-28">Sacra Dorsa</tspan></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 717.15312,360.3698 c 0,0 -2.51355,29.63333 20.76979,51.99062"
+       id="path3873"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.85472918px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-6-80-97"><textPath
+         xlink:href="#path3873"
+         id="textPath3883"><tspan
+   id="tspan945-9-8-994-3"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:1.85472918px;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Xanthe Montes</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1133.7642"
+       y="388.76752"
+       id="text943-6-6-80-6"><tspan
+         sodipodi:role="line"
+         x="1133.7642"
+         y="388.76752"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-1">Pasteur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1151.2266"
+       y="442.08105"
+       id="text943-6-6-80-29"><tspan
+         sodipodi:role="line"
+         x="1151.2266"
+         y="442.08105"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-31">Arago</tspan></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.3543317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1188.1335,379.83696 c 0.5012,0.37583 3.4142,5.07611 7.0472,5.70249 3.633,0.62636 8.2781,4.14605 15.6276,4.69534"
+       id="path3902"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-6-80-94"
+       x="1.122532"
+       y="-2.3386083"
+       transform="translate(0.280633,-1.683798)"><textPath
+         xlink:href="#path3902"
+         id="textPath3912"><tspan
+   id="tspan945-9-8-994-7"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Indus Vallis</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1159.482,447.71423 c 0,0.56129 1.1693,11.55274 7.6239,14.26551 6.4545,2.7128 8.5125,13.37686 8.5125,13.37686"
+       id="path3915"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-6-80-8"
+       transform="translate(0.23386084,-0.23386084)"><textPath
+         xlink:href="#path3915"
+         id="textPath3925"><tspan
+   id="tspan945-9-8-994-4"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Naktong Vallis</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1226.7712"
+       y="349.9751"
+       id="text943-6-6-80-50"><tspan
+         sodipodi:role="line"
+         x="1226.7712"
+         y="349.9751"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-36">Flammarion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1329.1589"
+       y="366.41022"
+       id="text943-6-6-80-1"><tspan
+         sodipodi:role="line"
+         x="1329.1589"
+         y="366.41022"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-0">Baldet</tspan></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1389.5075,386.53624 c 0.9355,-1.49669 4.3031,-20.57974 21.3281,-35.54685"
+       id="path3944"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text943-6-6-80-63"
+       transform="rotate(8.2874108,1462.833,380.70166)"><textPath
+         xlink:href="#path3944"
+         id="textPath3954"><tspan
+   id="tspan945-9-8-994-20"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332">Nili Fossae</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1347.3726"
+       y="444.79303"
+       id="text943-6-6-80-61"><tspan
+         sodipodi:role="line"
+         x="1347.3726"
+         y="444.79303"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-5">Nili</tspan><tspan
+         sodipodi:role="line"
+         x="1347.3726"
+         y="451.40762"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4033">Patera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1363.687"
+       y="456.43469"
+       id="text943-6-6-80-54"><tspan
+         sodipodi:role="line"
+         x="1363.687"
+         y="456.43469"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-76">Meroe</tspan><tspan
+         sodipodi:role="line"
+         x="1363.687"
+         y="463.04929"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4035">Patera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1280.5416"
+       y="482.8269"
+       id="text943-6-6-80-56"><tspan
+         sodipodi:role="line"
+         x="1280.5416"
+         y="482.8269"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-93">Leighton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1724.9161"
+       y="426.08411"
+       id="text943-6-6-80-74"><tspan
+         sodipodi:role="line"
+         x="1724.9161"
+         y="426.08411"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-52">Eddie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1800.5286"
+       y="257.69247"
+       id="text943-6-6-80-547"
+       transform="rotate(6.7348115)"><tspan
+         sodipodi:role="line"
+         x="1800.5286"
+         y="257.69247"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-44">Cerberus Palus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="153.74745"
+       y="559.82062"
+       id="text943-6-6-80-3"><tspan
+         sodipodi:role="line"
+         x="153.74745"
+         y="559.82062"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-07">Marca</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="177.69225"
+       y="569.74249"
+       id="text943-6-6-80-86"><tspan
+         sodipodi:role="line"
+         x="177.69225"
+         y="569.74249"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-8">Cobres</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="173.82437"
+       y="614.58942"
+       id="text943-6-6-80-84"><tspan
+         sodipodi:role="line"
+         x="173.82437"
+         y="614.58942"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-314">Comas</tspan><tspan
+         sodipodi:role="line"
+         x="173.82437"
+         y="621.20398"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:end;text-anchor:end;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4085">Sola</tspan></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 211.03602,541.44567 c 0,0 -4.30304,22.45064 0.74835,34.61139 5.0514,12.16078 14.03165,50.32687 14.03165,50.32687"
+       id="path4087"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="625.04675"
+       y="627.07513"
+       id="text943-6-6-80-92"><tspan
+         sodipodi:role="line"
+         x="625.04675"
+         y="627.07513"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-06">Martin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="675.90265"
+       y="688.01129"
+       id="text943-6-6-80-89"><tspan
+         sodipodi:role="line"
+         x="675.90265"
+         y="688.01129"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-26">Protva Valles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="720.89093"
+       y="668.4151"
+       id="text943-6-6-80-64"><tspan
+         sodipodi:role="line"
+         x="720.89093"
+         y="668.4151"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-95">Ritchey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="802.18097"
+       y="652.88672"
+       id="text943-6-6-80-0"><tspan
+         sodipodi:role="line"
+         x="802.18097"
+         y="652.88672"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-48">Holden</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="974.02197"
+       y="515.00244"
+       id="text943-6-6-80-71"><tspan
+         sodipodi:role="line"
+         x="974.02197"
+         y="515.00244"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-72">Endeavour</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1492.9069"
+       y="587.27612"
+       id="text943-6-6-80-72"><tspan
+         sodipodi:role="line"
+         x="1492.9069"
+         y="587.27612"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-261">López</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1526.4626"
+       y="586.78699"
+       id="text943-6-6-80-72-0"><tspan
+         sodipodi:role="line"
+         x="1526.4626"
+         y="586.78699"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-261-6">Tivoli</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1556.4763"
+       y="626.67786"
+       id="text943-6-6-80-72-1"><tspan
+         sodipodi:role="line"
+         x="1556.4763"
+         y="626.67786"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-261-5">Tyrrhenus </tspan><tspan
+         sodipodi:role="line"
+         x="1556.4763"
+         y="633.29242"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4166">Mons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1541.6964"
+       y="666.06006"
+       id="text943-6-6-80-72-9"><tspan
+         sodipodi:role="line"
+         x="1541.6964"
+         y="666.06006"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-261-4">Bombala</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1633.1636"
+       y="652.60596"
+       id="text943-6-6-80-72-90"><tspan
+         sodipodi:role="line"
+         x="1633.1636"
+         y="652.60596"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan945-9-8-994-261-9">Müller</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="292.23975"
+       y="764.07904"
+       id="text943-8-93-8-8-4-1"><tspan
+         sodipodi:role="line"
+         x="292.23975"
+         y="764.07904"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-7">Hipparchus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="327.95847"
+       y="837.63318"
+       id="text943-8-93-8-8-4-7"><tspan
+         sodipodi:role="line"
+         x="327.95847"
+         y="837.63318"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-1">Kuiper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="358.91473"
+       y="843.98315"
+       id="text943-8-93-8-8-4-15"><tspan
+         sodipodi:role="line"
+         x="358.91473"
+         y="843.98315"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-9">Wright</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="603.25745"
+       y="782.73212"
+       id="text943-8-93-8-8-4-77"><tspan
+         sodipodi:role="line"
+         x="603.25745"
+         y="782.73212"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-6">Slipher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="823.362"
+       y="696.38483"
+       id="text943-8-93-8-8-4-73"><tspan
+         sodipodi:role="line"
+         x="823.362"
+         y="696.38483"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-65">Bond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="921.02228"
+       y="718.74188"
+       id="text943-8-93-8-8-4-6"><tspan
+         sodipodi:role="line"
+         x="921.02228"
+         y="718.74188"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-3">Vogel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0.71966666px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1018.5211"
+       y="721.87799"
+       id="text943-8-93-8-8-4-9"><tspan
+         sodipodi:role="line"
+         x="1019.7316"
+         y="721.87799"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:2.42093754px;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-4">Greely</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1011.6418"
+       y="794.24146"
+       id="text943-8-93-8-8-4-8"><tspan
+         sodipodi:role="line"
+         x="1011.6418"
+         y="794.24146"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-12">Maunder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1434.9716"
+       y="481.51624"
+       id="text943-8-93-8-8-4-93"
+       transform="rotate(10.848079)"><tspan
+         sodipodi:role="line"
+         x="1434.9716"
+         y="481.51624"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-90">Alpheus Colles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-479.33142"
+       y="1462.2219"
+       id="text943-8-93-8-8-4-88"
+       transform="rotate(-75.677984)"><tspan
+         sodipodi:role="line"
+         x="-478.44775"
+         y="1462.2219"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-5">Axius </tspan><tspan
+         sodipodi:role="line"
+         x="-479.33142"
+         y="1468.8365"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4278" /><tspan
+         sodipodi:role="line"
+         x="-479.33142"
+         y="1475.451"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4280">Valles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1540.9408"
+       y="730.87378"
+       id="text943-8-93-8-8-4-0"><tspan
+         sodipodi:role="line"
+         x="1540.9408"
+         y="730.87378"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-96">Greg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1414.8429"
+       y="868.59998"
+       id="text943-8-93-8-8-4-3"><tspan
+         sodipodi:role="line"
+         x="1414.8429"
+         y="868.59998"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:center;text-anchor:middle;fill:#d7d1ae;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1321-4-6-13-3-8">Huxley</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:none;stroke-width:0.18203115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 916.83955,1037.7416 c 0,0 113.95665,13.8362 182.52535,13.9345 68.5687,0.098 121.583,1.4841 229.638,-1.651 108.055,-3.135 242.0391,-14.5723 242.0391,-14.5723"
+       id="path5162"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tunnelzoom"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fff900;stroke-width:6.08005857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3451"
+       width="2067.22"
+       height="1276.8123"
+       x="-33.60997"
+       y="-138.40616" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:6.08005857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3449"
+       width="2067.22"
+       height="1039.6901"
+       x="-33.60997"
+       y="-19.845015" />
   </g>
 </svg>

@@ -5,7 +5,7 @@ Cavus           Hollows
 Chaos           Broken terrain
 Chasma          Canyon
 Colles          Hills
-Dorsa           Wrinkle ridge
+Dorsum          Wrinkle ridge
 Fossa           Narrow depression
 Fluctus         Terrain covered by outflow of liquid
 Labyrinthus     Valley complex
@@ -16,10 +16,58 @@ Patera          Shallow volcano
 Planitia        Basin, low plain
 Planum          high plain, plateau
 Rupes           Scarp, cliff
-Sulci           Subparallel furrows and ridges
-Scopuli         Irregular scarp
+Sulcus          Subparallel furrows and ridges
+Scopulus        Irregular scarp
 Terra           Land, region
 Tholus          Domical volcano
 Undae           Field of dunes
-Valles          Valley
+Vallis          Valley
 Vastitas        Extensive plane
+
+Catena
+Cavus
+Chaos
+Chasma
+Colles
+Dorsum
+Fossa
+Fluctus
+Labyrinthus
+Mensa
+Mons
+Palus
+Patera
+Planitia
+Planum
+Rupes
+Sulcus
+Scopulus
+Terra
+Tholus
+Undae
+Vallis
+Vastitas
+
+Chain of craters
+Hollows
+Broken terrain
+Canyon
+Hills
+Wrinkle ridge
+Narrow depression
+Outflow of liquid
+Valley complex
+Mesa
+Mountain, volcano
+Small plain
+Shallow volcano
+Basin, low plain
+High plain, plateau
+Scarp, cliff
+Furrows and ridges
+Irregular scarp
+Land, region
+Domical volcano
+Field of dunes
+Valley
+Extensive plane
